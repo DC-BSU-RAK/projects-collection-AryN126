@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">CHRONO SENSE</string>
+
+    <string name="info">Info</string>
+
+    <string name="hero_title">Time Perception Analysis</string>
+
+    <string name="hero_subtitle">
+        Understand how your brain experiences time
+    </string>
+
+    <string name="hero_description">
+        Analyze focus, stress and emotions to predict perceived time duration.
+    </string>
+
+    <string name="quick_insights">Quick Insights</string>
+
+    <string name="insight_text">
+        • Stress can make time feel slower
+        &#10;• Deep focus often makes time feel faster
+        &#10;• Calm emotional states improve time awareness
+        &#10;• Productivity levels influence perceived duration
+        &#10;• Emotional balance affects cognitive processing speed
+    </string>
+
+    <string name="task_type">Task Type</string>
+
+    <string name="focus_level">Focus Level</string>
+
+    <string name="focus_hint">
+        Move the slider to represent your current concentration level.
+    </string>
+
+    <string name="emotional_state">Emotional State</string>
+
+    <string name="stressed">Stressed</string>
+
+    <string name="neutral">Neutral</string>
+
+    <string name="calm">Calm</string>
+
+    <string name="how_it_works">How It Works</string>
+
+    <string name="how_it_works_desc">
+        Chrono Sense combines task complexity, focus intensity and emotional state
+        to estimate perceived time duration. The app demonstrates how psychological
+        conditions can distort time awareness during daily activities.
+    </string>
+
+    <string name="result_format">%1$d minutes</string>
+
+    <string name="calculate_perception">Calculate Perception</string>
+
+    <string name="result_title">Predicted Perceived Duration</string>
+
+</resources>

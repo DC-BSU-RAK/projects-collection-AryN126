@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#1A1A2E">
+
+    <!-- ABOUT -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Chrono Sense analyzes focus, stress and emotions to predict perceived time duration."
+        android:textColor="#AAAAAA"
+        android:textSize="14sp"
+        tools:ignore="HardcodedText,Typos" />
+
+    <!-- HOW IT WORKS -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="How It Works"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="The app combines task type, focus level and emotional state to estimate how long an activity may psychologically feel to a user. Higher stress can make time feel slower, while deeper focus can make time feel faster."
+        android:textColor="#AAAAAA"
+        android:textSize="14sp"
+        android:lineSpacingExtra="4dp"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

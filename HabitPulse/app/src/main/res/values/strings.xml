@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--HOME-->
+    <string name="app_name">HabitPulse</string>
+    <string name="today_habits">Today’s Habits</string>
+    <string name="your_habits">Your Habits</string>
+    <string name="jogging">Jogging</string>
+    <string name="study">Study</string>
+    <string name="gym">Gym</string>
+    <string name="read">Read</string>
+    <string name="finish_day">Finish Day</string>
+    <string name="daily_summary">Daily Summary</string>
+    <string name="complete_message">Complete your habits to see summary</string>
+    <string name="settings">Settings</string>
+    <string name="day_completed">Day Completed</string>
+    <string name="summary_good">Great consistency!</string>
+    <string name="summary_ok">Good effort, improve a bit more.</string>
+    <string name="summary_bad">Try to stay more consistent tomorrow.</string>
+    <string name="summary_perfect">Perfect day! Keep it up </string>
+    <string name="enter_habit">Enter habit</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="summary_placeholder">Complete your habits to see summary</string>
+    <string name="feedback_perfect">
+    Perfect day! You completed all your habits. Keep this momentum going — consistency like this builds a strong routine and long-term discipline.
+</string>
+
+    <string name="feedback_great">
+    Great work! You completed most of your habits today. You’re building strong consistency — just a little more effort and you’ll reach perfection.
+</string>
+
+    <string name="feedback_good">
+    Good effort today. You’re on the right track, but there is still room to improve consistency. Try pushing a bit more tomorrow.
+</string>
+
+    <string name="feedback_try_more">
+    You completed some habits, but not enough for a strong routine today. Focus on small wins and try to stay more consistent tomorrow.
+</string>
+
+    <string name="feedback_stay_consistent">
+    Today was a low completion day. Don’t worry — consistency is built over time. Start small tomorrow and keep going.
+</string>
+    <string name="habit_jogging">Jogging</string>
+    <string name="habit_study">Study</string>
+    <string name="no_habits">No habits to track. Add some!</string>
+    <string name="habit_gym">Gym</string>
+    <string name="habit_read">Read</string>
+    <string name="hint_new_habit">Enter new habit</string>
+    <string name="add_habit_button">+ Add Habit</string>
+    <string name="no_summary_yet">No summary yet</string>
+    <string name="date_placeholder">Date</string>
+    <string name="today_summary">Todays Summary</string>
+    <string name="previous_day">Previous Day Summary</string>
+    <string name="no_previous_summary">No previous summary</string>
+
+    <!-- PROFILE -->
+    <string name="profile">Profile</string>
+    <string name="change_username">Change Username</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="mood_goal">Mood Goal (e.g. Stay Positive)</string>
+
+    <!-- APPEARANCE -->
+    <string name="appearance">Appearance</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <!-- PREFERENCES -->
+    <string name="preferences">Preferences</string>
+    <string name="notifications">Notifications</string>
+    <string name="sound">Sound</string>
+
+    <!-- ACTIONS -->
+    <string name="save_changes">Save Changes</string>
+    <string name="reset_data">Reset Data</string>
+    <string name="logout">Logout</string>
+
+    <!-- ABOUT -->
+    <string name="about">About</string>
+    <string name="instructions">Instructions</string>
+    <string name="version">Version 1.0</string>
+
+    <!-- LOGIN -->
+    <string name="login_subtitle">Track your mood and stay consistent</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">Don’t have an account? Sign up</string>
+
+    <!-- SIGN UP -->
+    <string name="signup_subtitle">Start tracking your habits today</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <!-- INFO PAGE -->
+    <string name="about_desc">
+HabitPulse is a simple habit tracking application designed to help users build consistency in their daily routines. Instead of focusing on complex productivity systems, the app allows users to easily add habits, track completion, and view daily performance in a clear and minimal interface.
+
+Users can create their own habits such as studying, exercising, reading, or any personal goals. Each day, they can mark completed habits and receive a summary showing their progress and consistency level.
+
+The goal of HabitPulse is to make habit building easy, visual, and motivating without unnecessary complexity.
+</string>
+
+    <string name="why_app">
+Why this app?
+</string>
+
+    <string name="why_desc">
+Most people struggle with maintaining consistency in daily habits. HabitPulse solves this by giving users a simple system to track what they actually complete each day.
+
+By visualizing progress and completion percentage, users can understand their discipline level and gradually improve over time. This encourages accountability and helps build long-term positive routines.
+
+The app is especially useful for students and individuals trying to improve productivity, focus, and self-discipline in a structured but simple way.
+</string>
+
+    <string name="how_it_works">
+How it works
+</string>
+
+    <string name="how_desc">
+HabitPulse allows users to create custom habits and track them daily using checkboxes. Each habit is stored locally on the device so it remains saved until the user deletes it.
+
+At the end of the day, users can submit their progress to receive a completion score and feedback based on how many habits they finished. This helps users reflect on their productivity and improve consistency over time.
+
+Users can also add or remove habits anytime, making the system flexible and personalized.
+</string>
+
+    <string name="terms">
+Terms and Conditions
+</string>
+
+    <string name="terms_desc">
+HabitPulse is a personal habit tracking tool intended for self-improvement and productivity tracking. It is not a medical or psychological application and should not be used as a replacement for professional advice.
+
+All data is stored locally on the user device and is not uploaded or shared with external servers. Users are responsible for managing their own data and device security.
+
+The app is provided as-is without guarantees of results. Habit improvement depends entirely on user consistency and engagement.
+</string>
+
+    <string name="Close">Close</string>
+</resources>
